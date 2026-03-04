@@ -25,26 +25,46 @@
             <th>Time</th>
             <th>MONDAY</th>
             <th>TUESDAY</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+            <th>Saturday</th>
         </tr>
         <!-- First 3 lectures -->
         <tr>
             <td>10:30 - 11:30</td>
-            <td>Maths</td>
-            <td>Maths</td>
+            <td>APL(J1)</td>
+            <td>ICLA</td>
+            <td>IKS</td>
+            <td>EGDL</td>
+            <td>ICLA</td>
+            <td>EGD</td>
         </tr>
         <tr>
             <td>11:30 - 12:30</td>
-            <td>English</td>
-            <td>Math</td>
+            <td>APL(J2)</td>
+            <td>AP</td>
+            <td>WDL</td>
+            <td>EGDL</td>
+            <td>EGDL</td>
+            <td>EGD</td>
         </tr>
         <tr>
             <td>12:30 - 1:30</td>
-            <td>History</td>
-            <td>Science</td>
+            <td>LLC</td>
+            <td>LLC</td>
+            <td>WDL</td>
+            <td>ICLA</td>
+            <td>EGDL</td>
+            <td>SELF LEARNING</td>
         </tr>
 
         <!-- BREAK row -->
         <tr>
+            <td><strong>BREAK</strong></td>
+            <td><strong>BREAK</strong></td>
+            <td><strong>BREAK</strong></td>
+            <td><strong>BREAK</strong></td>
             <td><strong>BREAK</strong></td>
             <td><strong>BREAK</strong></td>
             <td><strong>BREAK</strong></td>
@@ -53,13 +73,30 @@
         <!-- After BREAK, 2 more lectures -->
         <tr>
             <td>2:30 - 3:30</td>
-            <td>Art</td>
-            <td>Geography</td>
+            <td>ICLA</td>
+            <td>WDL</td>
+            <td>AP</td>
+            <td>APL(J2)</td>
+            <td>SMP</td>
+            <td>SMP</td>
         </tr>
         <tr>
             <td>3:30 - 4:30</td>
-            <td>Science</td>
-            <td>Art</td>
+            <td>SMPL</td>
+            <td>WDL</td>
+            <td>ICLA</td>
+            <td>APL(J2)</td>
+            <td>IKS</td>
+            <td>MAKEUP CLASS</td>
+        </tr>
+        <tr>
+            <td>3:30 - 4:30</td>
+            <td>SMPL</td>
+            <td>SPORTS</td>
+            <td>CLUB HOUR / NPTEL</td>
+            <td>LLC</td>
+            <td>TG</td>
+            <td>MAKEUP CLASS</td>
         </tr>
     </table>
 
